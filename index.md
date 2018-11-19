@@ -1,10 +1,19 @@
 ---
 wrapper: "../../js/components/Wiki"
-prependJs:
+title: End of the Line
+description: EotL wiki overview.
+see:
+  - MUDs
+  - Getting Started
+  - History
 ---
 
-# Stinkbutt
+This is a description of End of the Line. It can contain links to [[Eternal City:other pages]].
 
-* One
-* Two
-* [[Bogleg]]
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
