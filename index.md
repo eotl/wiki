@@ -1,5 +1,5 @@
 ---
-wrapper: "../../js/components/Wiki"
+wrapper: "../../js/components/wiki/IndexArticle"
 title: End of the Line
 description: EotL wiki overview.
 see:
@@ -16,4 +16,3 @@ This is a description of End of the Line. It can contain links to [[Eternal City
 #### H4
 ##### H5
 ###### H6
-
