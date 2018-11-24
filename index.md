@@ -5,7 +5,7 @@ description: EotL wiki overview.
 see:
   - MUDs
   - Getting Started
-  - History
+  - wiki/History
 ---
 
 It's a cruel world out there, but this wiki should supply you all the critical information you need to survive your adventure on EotL. To contribute, you can mudmail Devo with your content suggestions, or go right to the source by requesting access to the [Github repository](https://github.com/eotl/wiki). 
