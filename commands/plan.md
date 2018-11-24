@@ -1,0 +1,10 @@
+---
+wrapper: "../../../js/components/wiki/TextArticle"
+---
+Command : Plan.
+Format  : plan || plan clear
+ 
+     The 'plan' command puts you into the editor, allowing you to create 
+a plan for yourself that people will see when they <who> you.
+ 
+     To clear your plan, you can <plan clear>.

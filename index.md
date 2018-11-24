@@ -46,3 +46,9 @@ The basic article wrapper contains the standard header and a "See also" section 
 
 #### IndexArticle
 Used for category indexes, index articles are like basic articles but also contain sections for subcategory and member article lists.
+
+### TextArticle
+Text articles are written in plain text and displayed in monospace. Most of these articles were ported over from the MUD and need to be re-written in Markdown.
+
+### StubArticle
+Article stubs are placeholders for future articles. If you're looking to contribute, expanding the stubs is a good place to start.

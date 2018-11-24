@@ -1,0 +1,14 @@
+---
+wrapper: "../../../js/components/wiki/TextArticle"
+---
+Command : Mode.
+Format  : mode <mode>
+Example : mode say
+ 
+     The mode command puts you in a "mode," where all commands you type
+will be appended to <mode> first.  So if you did <mode say>, you would
+say anything that you typed.  Typing <**> or <.> on an empty line will
+take you out of mode.  
+ 
+NOTE:  If you want to escape out of mode you will need to use a double
+bang (ie. <!!look> instead of just <!look>).
