@@ -2,11 +2,11 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : shout
-Format  : shout <msg>
-          shout -d <name>
-          shout -a <name>
+Format  : shout &lt;msg&gt;
+          shout -d &lt;name&gt;
+          shout -a &lt;name&gt;
           shout -l
-          shout /last [<num>]
+          shout /last [&lt;num&gt;]
           shout /hist
           shout /censor [on|off]
 
@@ -21,10 +21,10 @@ regardless of whether they want to or not.
 This is understandably abused quite often, so the options -d, -a, and -l
 were added, with the following uses:
 
-        -d <name>     Denies <name> from shouting.  When they
+        -d &lt;name&gt;     Denies &lt;name&gt; from shouting.  When they
                       attempt to shout in the future, they will
                       get a denied message.
-        -a <name>     allows <name> to shout again.
+        -a &lt;name&gt;     allows &lt;name&gt; to shout again.
         -l            Lists everyone who is currently shoutbanned.
 
 Then, history was added to the shout channel, in the form of /last, and

@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Auction.
-Format  : auction <item> for <amount> coins, auction status, auction <text>
+Format  : auction &lt;item&gt; for &lt;amount&gt; coins, auction status, auction &lt;text&gt;
 Example : auction sword for 100 coins
 
       This command has three different uses.

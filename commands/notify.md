@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Notify
-Format  : notify || notify <command>
+Format  : notify || notify &lt;command&gt;
 
      The notify command controls the login/logout notification 
 inside your player body.  The different commands are as follows:
@@ -10,42 +10,42 @@ inside your player body.  The different commands are as follows:
 notify
   Lists your categories.
 
-notify <on/off>
+notify &lt;on/off&gt;
   Turns on/off notification.
 
-notify <on/off> <category>
-  Turns notification on/off for <category>. (default is on)
+notify &lt;on/off&gt; &lt;category&gt;
+  Turns notification on/off for &lt;category&gt;. (default is on)
   
-notify level <level>
-  Sets your notification to watch for level <level> and above.
-  <level> can be a string (e.g. "wizard", "frob") or an ordinal
+notify level &lt;level&gt;
+  Sets your notification to watch for level &lt;level&gt; and above.
+  &lt;level&gt; can be a string (e.g. "wizard", "frob") or an ordinal
   value.  (0 is Mortal, 1 is Guest, 2 is Frob)  You will then be
-  notified of everyone ranked <level> and above, whether they are
-  on your list or not.  Set <level> to 6 to turn off level notification.
+  notified of everyone ranked &lt;level&gt; and above, whether they are
+  on your list or not.  Set &lt;level&gt; to 6 to turn off level notification.
   
-notify beep <category> <on/off>
+notify beep &lt;category&gt; &lt;on/off&gt;
   Marks a notification category for beeping.
 
-notify  <category>
-  Lists the contents of <category>.
+notify  &lt;category&gt;
+  Lists the contents of &lt;category&gt;.
 
-notify +c <category>
-  Adds <category> to your notify list.
+notify +c &lt;category&gt;
+  Adds &lt;category&gt; to your notify list.
 
-notify -c <category>
-  Deletes <category> from your notify list.
+notify -c &lt;category&gt;
+  Deletes &lt;category&gt; from your notify list.
 
-notify +n <category> <name>
-  Adds <name> to <category>.
+notify +n &lt;category&gt; &lt;name&gt;
+  Adds &lt;name&gt; to &lt;category&gt;.
 
-notify -n <category> <name>
-  Deletes <name> from <category>.
+notify -n &lt;category&gt; &lt;name&gt;
+  Deletes &lt;name&gt; from &lt;category&gt;.
 
-notify -n <name>
-  Deletes <name> from your notify list.
+notify -n &lt;name&gt;
+  Deletes &lt;name&gt; from your notify list.
 
-notify color <category> <color>
-  Changes the color of <category> to <color>
+notify color &lt;category&gt; &lt;color&gt;
+  Changes the color of &lt;category&gt; to &lt;color&gt;
 
   Colors:
     black
@@ -59,10 +59,10 @@ notify color <category> <color>
   Modifiers:
     bold
     blink
-  ( bold <color> can be abbreviated by adding "h" or "b" to the
+  ( bold &lt;color&gt; can be abbreviated by adding "h" or "b" to the
     beginning of the color.  ( "bold white" becomes "bwhite" ) )
 
-notify convert <bw|bw2|gen|iff>
+notify convert &lt;bw|bw2|gen|iff&gt;
   Temporary command for converting other friends and foes lists to
   this one.
        bw  - Converts from Binford Wiztoy
@@ -79,13 +79,13 @@ notify *check
 notify move on/off
   Sets movement notification on or off.
  
-notify move on/off <category>
+notify move on/off &lt;category&gt;
   Sets movement notification on or off for that category.
  
 notify move entrance/exit
   Shows current status for default entrance or exit messagees.
  
-notify move entrance/exit <color>
+notify move entrance/exit &lt;color&gt;
   Sets default entrance or exit message color.
  
 notify move entrance/exit off

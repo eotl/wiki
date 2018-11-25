@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Wear
-Format  : wear <armor>
+Format  : wear &lt;armor&gt;
 Example : wear helmet 
 
 The 'wear' command allows your player to don armor and other items

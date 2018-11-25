@@ -2,8 +2,8 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command: Alias.
-Format:  alias <command> <command list>
-         alias <option> <arg>
+Format:  alias &lt;command&gt; &lt;command list&gt;
+         alias &lt;option&gt; &lt;arg&gt;
 Example: alias km kill monster
          alias kp kill $n
 
@@ -13,7 +13,7 @@ executed.  An alias consists of two parts, as in the format above:
 the command, and the command list that the alias is associated with.
 
      EotL defines some aliases for you when you create a new character.
-Typing <alias> by itself will show you these, plus any other aliases
+Typing &lt;alias&gt; by itself will show you these, plus any other aliases
 you have defined yourself.  Pre-defined aliases are marked with a plus (+).
 
 -- Adding an alias:
@@ -45,7 +45,7 @@ The following two examples show the difference between $* and $0 :
 
 -- Checking an alias.
 
-     You can check what an alias is defined to be by typing alias <command>.
+     You can check what an alias is defined to be by typing alias &lt;command&gt;.
 
      For example:
           If you had 'hi' aliased to 'say hi', typing 'alias hi' would

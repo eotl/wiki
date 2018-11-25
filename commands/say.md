@@ -6,22 +6,22 @@ The Say Command
      The say command is used to echo messages to anyone who is the 
 room with you.  Valid commands are:
 
-say <what>:
-  This will echo the string <what> to the room you are in.
+say &lt;what&gt;:
+  This will echo the string &lt;what&gt; to the room you are in.
   
-' <what>:
+' &lt;what&gt;:
   The say command can be abbreviated with a single ' making it easier
   to type.  It works just as though you were typing say.
 
-say /last <number>
+say /last &lt;number&gt;
   This will display the conversation you've heard. The optional argument
   will display the last number of items up to the max of 20.
   
-say /last <name>
+say /last &lt;name&gt;
   This will show you all the conversationin your history that came from
   name.
 
-say /last <regexp>
+say /last &lt;regexp&gt;
   This will do a regexp search through your last 20 history items for 
   regexp.
 

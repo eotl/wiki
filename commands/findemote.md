@@ -2,12 +2,12 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Findemote.
-Format  : findemote <regex>
-          findemote -s <string>
+Format  : findemote &lt;regex&gt;
+          findemote -s &lt;string&gt;
 Example : findemote happy
 
 Lists all emotes (feelings) via a regular expression (regex).  Unlike 
-feelings <pattern>, this command searches the feeling data.
+feelings &lt;pattern&gt;, this command searches the feeling data.
 
 The -s option (added 960614) allows players to search for a simple sub-string
 instead of by regex.  This may be useful in doing things like:

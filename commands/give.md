@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Give
-Format  : give <item> to <thing>
+Format  : give &lt;item&gt; to &lt;thing&gt;
 Example : give 10 coins to goblin
 
 The 'give' command will let you give other players and monsters items that

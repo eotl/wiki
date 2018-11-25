@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : mbeep
-Format  : mbeep <player>
+Format  : mbeep &lt;player&gt;
 Example : mbeep valentino
  
    This will let you beep players if they have been idle for over 2 minutes.

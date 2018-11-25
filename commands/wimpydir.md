@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Wimpy Direction
-Format  : wimpydir <direction> || wimpydir random
+Format  : wimpydir &lt;direction&gt; || wimpydir random
 Example : wimpydir east
 
      If your player has a wimpy value set (not zero) then you may also

@@ -2,12 +2,12 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Unmark
-Format  : unmark <object|all [id]>
+Format  : unmark &lt;object|all [id]&gt;
  
      Marked objects may be unmarked with this command, should you wish
 to sell or store them.
  
-     <unmark all> will unmark your entire inventory, and <unmark all [id]>
+     &lt;unmark all&gt; will unmark your entire inventory, and &lt;unmark all [id]&gt;
 will unmark everyting matching "id" (so "unmark all armor" will unmark all
 the armor in your inventory).
  

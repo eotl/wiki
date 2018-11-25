@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Group.
-Format  : group <subcommand> <arguments> 
+Format  : group &lt;subcommand&gt; &lt;arguments&gt; 
 Example : group invite Duncan
 
 -- Beginning a group:
@@ -11,15 +11,15 @@ group with them.  The first player becomes the leader of the group.
 
      Leader's commands:
 
-        group invite <player>   - invite <player> to join the group
-        group leader <member>   - pass leadership of the group onto <member>
-        group name <name>       - (re)name the group <name>
+        group invite &lt;player&gt;   - invite &lt;player&gt; to join the group
+        group leader &lt;member&gt;   - pass leadership of the group onto &lt;member&gt;
+        group name &lt;name&gt;       - (re)name the group &lt;name&gt;
                                   Note: if you name your group, other
                                   people will will be able to see its
                                   membership via the 'who -o' and 'who -G'
                                   command.  Typing "group name" with no argument
                                   will un-name the group.
-        group remove <member>   - remove <member> from the group
+        group remove &lt;member&gt;   - remove &lt;member&gt; from the group
 
      Any member of the group may use the following commands :
 
@@ -27,13 +27,13 @@ group with them.  The first player becomes the leader of the group.
         group hp                - display each member's hp/mana/fatigue
         group leave             - leave the group you are currently in
         group status            - display information about the group
-        group say <message>     - send <message> to every member in the group
+        group say &lt;message&gt;     - send &lt;message&gt; to every member in the group
         group split             - split your coins with members of the group
                                   (who must be present at the time)
 
      All arguments in the above commands are mandatory. 
 
-     Typing <group> by itself will either display the name of the group you
+     Typing &lt;group&gt; by itself will either display the name of the group you
 are in, the name of the person / group that last invited you to join them,
 or nothing.
 

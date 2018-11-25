@@ -2,11 +2,11 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : List.
-Format  : list || list <argument>
+Format  : list || list &lt;argument&gt;
 Example : list locations
 
      The 'list' command will display your hit locations, your proficiency 
-levels, your resistances, your skill levels, or your stats.  Typing <list>
+levels, your resistances, your skill levels, or your stats.  Typing &lt;list&gt;
 by itself will show the valid arguments for the command.
 
      The displays for proficiencies and skills both follow a similar format.

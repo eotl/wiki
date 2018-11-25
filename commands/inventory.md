@@ -4,7 +4,7 @@ wrapper: "../../../js/components/wiki/TextArticle"
 Command : Inventory.
 Format  : inventory || i
 
-     The <inventory> command will list what you are carrying.  It may be
-shortened to <i>.
+     The &lt;inventory&gt; command will list what you are carrying.  It may be
+shortened to &lt;i&gt;.
 
 See also: encumbrance

@@ -2,29 +2,29 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command: Tell.
-Format:  tell <player> <message>
+Format:  tell &lt;player&gt; &lt;message&gt;
 Example: tell zippo wah, the mud is broke!
  
      The tell command is used to send a message across the mud to
 other players currently on the mud or to people on other muds.  Valid
 syntax follows:
  
-tell <what> <message>
+tell &lt;what&gt; &lt;message&gt;
   This will send the message to the specified person/people.
   What can be any of the following:
  
-  -<category> sends a tell to everyone in <category> if it is one of
+  -&lt;category&gt; sends a tell to everyone in &lt;category&gt; if it is one of
        your notification categories.
  
-  :<rclist> tells to everyone on the specified rclist. Go into the
+  :&lt;rclist&gt; tells to everyone on the specified rclist. Go into the
        mailer and type 'list' to get a list of the rclists.
  
   . tells to whoever you last sent a tell to. This can be one person
        or a group of people.
  
-  <person> send a tell to person.
+  &lt;person&gt; send a tell to person.
  
-  <person>@<mud> send an intermud tell to person at mud.
+  &lt;person&gt;@&lt;mud&gt; send an intermud tell to person at mud.
  
   
   Any one or combination of these can be used.  When more than one
@@ -38,9 +38,9 @@ tell <what> <message>
       notification list.
  
   It is not necessary to have a space after each comma.
-  All exclaimation marks and spaces will be ignored if in the <what>
+  All exclaimation marks and spaces will be ignored if in the &lt;what&gt;
   section of the tell.
-  Capitalization is ignored in the <what> portion of the tell. "BOB"
+  Capitalization is ignored in the &lt;what&gt; portion of the tell. "BOB"
   is the same as "bob".
      
  

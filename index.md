@@ -1,5 +1,7 @@
 ---
 wrapper: "../../js/components/wiki/IndexArticle"
+prependJs: 
+  - "import TableOfContents from '../../js/components/wiki/TableOfContents';"
 title: EotL Wiki
 description: EotL wiki overview.
 see:
@@ -8,7 +10,9 @@ see:
   - wiki/History
 ---
 
-It's a cruel world out there, but this wiki should supply you all the critical information you need to survive your adventure on EotL. To contribute, you can mudmail Devo with your content suggestions, or go right to the source by requesting access to the [Github repository](https://github.com/eotl/wiki). 
+It's a dangerous world out there, but this wiki should supply you all the critical information you need to survive your adventure on EotL. To contribute, you can mudmail Devo with your content suggestions, or go right to the source by requesting access to the [Github repository](https://github.com/eotl/wiki). 
+
+{{ <TableOfContents {...props} /> }}
 
 ### Markdown
 The wiki is written in Markdown with additional support for harnessing content from the wiki component library. If you need help getting started with Markdown syntax, check out this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). The rest of this document will assume you're familiar with the basics. The source code for this document can be viewed on [Github](https://raw.githubusercontent.com/eotl/wiki/master/index.md).
@@ -47,8 +51,14 @@ The basic article wrapper contains the standard header and a "See also" section 
 #### IndexArticle
 Used for category indexes, index articles are like basic articles but also contain sections for subcategory and member article lists.
 
-### TextArticle
+#### TextArticle
 Text articles are written in plain text and displayed in monospace. Most of these articles were ported over from the MUD and need to be re-written in Markdown.
 
-### StubArticle
+#### StubArticle
 Article stubs are placeholders for future articles. If you're looking to contribute, expanding the stubs is a good place to start.
+
+### Components
+In addition to wrapper components, you may import other smaller components you can embed in the body of your article. If you find yourself using the same patterns over and over again across different wiki pages, it may be useful to converting them to components.
+
+#### TableOfContents
+The table of contents component will scan the headings in your document and generate a table of contents which has jump links to the different sections. The table of contents component takes an optional parameter 'depth' to specify how many levels deep your want your table of contents to be.

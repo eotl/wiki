@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command: Consider.
-Format:  consider <monster> || consider <player>
+Format:  consider &lt;monster&gt; || consider &lt;player&gt;
 
     The consider command provides you with two important pieces
 of information regarding a monster or player.  The first piece

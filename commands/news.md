@@ -5,8 +5,8 @@ COMMANDS:
 
   -p              -- Go to first page with unread articles.
   -p #            -- Go to page number #.
-  -p <expression> -- Go to page containing <expression> or, if there is more
-                     than one, list all pages containing <expression>.
+  -p &lt;expression&gt; -- Go to page containing &lt;expression&gt; or, if there is more
+                     than one, list all pages containing &lt;expression&gt;.
   -p list         -- List all pages that you are subscribed to.
   -p list new     -- List all pages you subscribe to that have new articles.
   -p list all     -- List all possible pages to subscribe to.
@@ -21,8 +21,8 @@ COMMANDS:
 
   -w              -- Write an article ON CURRENT PAGE.
   -w title        -- Write an article ON CURRENT PAGE with title 'title'.
-  <SPOILER>       -- Insert spoiler space into an article.  This only applies 
-                     the first time it appears in an article.  The <SPOILER> 
+  &lt;SPOILER&gt;       -- Insert spoiler space into an article.  This only applies 
+                     the first time it appears in an article.  The &lt;SPOILER&gt; 
                      tag on a line by itself will make sure that there is 
                      more than a full screen of blank space in your message, 
                      so those who don't want to read spoilers can exit from 
@@ -43,9 +43,9 @@ COMMANDS:
   -c !            -- Cancel current news page.
   -c all          -- Cancel all subscriptions (?!).
 
-  -b <player>     -- Read last post by <player> already read on current page.
-  -b <player> all -- Read all posts by <player> on current page.
-  -b <player> #   -- Read all posts by <player> from number # on current page.
+  -b &lt;player&gt;     -- Read last post by &lt;player&gt; already read on current page.
+  -b &lt;player&gt; all -- Read all posts by &lt;player&gt; on current page.
+  -b &lt;player&gt; #   -- Read all posts by &lt;player&gt; from number # on current page.
 
   -x # file       -- Xerox article number # on current page to ~/file. (Frob+)
 

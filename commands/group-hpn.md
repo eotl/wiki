@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Group-hpn
-Format  : set group-hpn <arg>
+Format  : set group-hpn &lt;arg&gt;
 Example : set group-hpn 300
 
      Setting the 'group-hpn' command will cause group members who are in

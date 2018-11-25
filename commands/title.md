@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Title.
-Format  : set title <message>
+Format  : set title &lt;message&gt;
 Example : set title is hopelessly lost
 
      If you are over eval 50, you may set your own title with the above

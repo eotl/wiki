@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Unalias.
-Format  : unalias <alias>
+Format  : unalias &lt;alias&gt;
 Example : unalias km
 
      Removes the alias in question.  To remove all of your self-defined 

@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Creator.
-Format  : creator || creator <item>
+Format  : creator || creator &lt;item&gt;
 Example : creator gnarled staff
           creator elven merchant
 

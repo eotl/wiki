@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Hit-level.
-Format  : set hit-level <arg>
+Format  : set hit-level &lt;arg&gt;
 Example : set hit-level random
 
      Setting the 'hit-level' command will target your attacks in combat

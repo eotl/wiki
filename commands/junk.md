@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Junk.
-Format  : junk <object>, junk <all object|inv|env>, junk <all>
+Format  : junk &lt;object&gt;, junk &lt;all object|inv|env&gt;, junk &lt;all&gt;
 
      Junking an object will destroy it forever.  Pretty useful, huh?  It
 is considered good etiquette to junk corpses after killing monsters, so as

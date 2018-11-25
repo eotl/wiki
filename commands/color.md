@@ -2,14 +2,14 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Color
-Format  : color <options>
+Format  : color &lt;options&gt;
 
 To set the default colors simply type 'color default'.
 To list all colors set type 'color list'.
 
 To set the color that you would like for any of the commands that are
 possible to be colored (type 'color' to list these). Type 'color' followed by 
-the name of the command, followed by '<opts>' where <opts> can be one or more
+the name of the command, followed by '&lt;opts&gt;' where &lt;opts&gt; can be one or more
 of the following:
 
     off            -- Disable coloring of this command.
@@ -21,11 +21,11 @@ of the following:
     bold           -- Causes this command to use high intensity colors.
     underline      -- Uses the VT100 code for underlining for this command.
     reverse        -- Uses the VT100 code for reversing fore/backgrounds.
-    <fore>         -- Sets the foreground color for this command to <color>.
-    <fore>,<back>  -- Sets the foreground color to <fore> and the background
-                      color to <back> for this command.
+    &lt;fore&gt;         -- Sets the foreground color for this command to &lt;color&gt;.
+    &lt;fore&gt;,&lt;back&gt;  -- Sets the foreground color to &lt;fore&gt; and the background
+                      color to &lt;back&gt; for this command.
 
-Valid colors for <fore> and <back> are:
+Valid colors for &lt;fore&gt; and &lt;back&gt; are:
 
     black    red    green    yellow    blue    purple    cyan    white
 

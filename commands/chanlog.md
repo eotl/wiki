@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Chanlog
-Format  : chanlog <channel>
+Format  : chanlog &lt;channel&gt;
 Example : chanlog linux
           chanlog
 

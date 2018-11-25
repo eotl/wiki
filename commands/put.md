@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Put
-Format  : put <item> in <item2>
+Format  : put &lt;item&gt; in &lt;item2&gt;
 Example : put fork in bag
 
 This command will put an item you are carrying into another item you are

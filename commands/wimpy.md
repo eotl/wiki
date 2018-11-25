@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Wimpy.
-Format  : set wimpy <number>
+Format  : set wimpy &lt;number&gt;
 Example : set wimpy 50
 
      By setting your wimpy to a particular number, you are instructing

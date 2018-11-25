@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Remove
-Format  : remove <armor>
+Format  : remove &lt;armor&gt;
 Example : remove helmet 
 
     This command allows your player to remove armor and other items

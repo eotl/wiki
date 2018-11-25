@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Bug.
-Format  : bug <message>
+Format  : bug &lt;message&gt;
 Example : bug When I try to look at the fountain, I get a 'Wtf?'.
 
      This command is used to report small bugs and errors you

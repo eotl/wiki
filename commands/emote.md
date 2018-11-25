@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Emote
-Format  : emote <action>
+Format  : emote &lt;action&gt;
 Example : emote picks his nose.
 
 The "emote" or emotion command allows the player to act out a customized
@@ -13,6 +13,6 @@ For example:
     = If your name was "Joe" and you wanted the message "Joe barfs."
       echoed to your room, you would type:
 
-        > emote barfs.
+        &gt; emote barfs.
 
 See also: feelings, random

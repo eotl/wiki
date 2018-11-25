@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Kill.
-Format  : kill <monster> || kill <player> || kill all
+Format  : kill &lt;monster&gt; || kill &lt;player&gt; || kill all
 Example : kill elf
 
      If you are not already in combat, the 'kill' command will 

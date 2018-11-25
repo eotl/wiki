@@ -19,8 +19,8 @@ access these history commands by using the following command line options:
 
     #!             Performs the last executed command.
     #$             Performs the last word of the last executed command.
-    #<num>         Runs history command <num>
-    #<string>      Runs last history command starting with <string>
+    #&lt;num&gt;         Runs history command &lt;num&gt;
+    #&lt;string&gt;      Runs last history command starting with &lt;string&gt;
 
 Here are some examples using the history listed above:
 

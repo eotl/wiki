@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Wield
-Format  : wield <weapon> [in <number> <hands>]
+Format  : wield &lt;weapon&gt; [in &lt;number&gt; &lt;hands&gt;]
 Examples: wield sword
           wield gigantic telephone pole in one hand
  

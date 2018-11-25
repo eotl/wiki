@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Comand  : Typo
-Format  : typo <message>
+Format  : typo &lt;message&gt;
 Example : typo The word "exces" is spelt "excess" in this room.
 
      This command shold be used to report tipografical erors in

@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Look.
-Format  : look || look <thing> || look at <thing> || look in <thing>
+Format  : look || look &lt;thing&gt; || look at &lt;thing&gt; || look in &lt;thing&gt;
  
      The 'look' command by itself will display the long description and
 contents of the room you are in.  The other three commands above may be

@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Page Width
-format: set page-width (<number>/auto)
+format: set page-width (&lt;number&gt;/auto)
 
      This value should be the width of your terminal window,
 in characters.  This may or may not be used by various things on

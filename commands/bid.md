@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Bid.
-Format  : bid <amount> on <lot number>, bid <lot number>, bid
+Format  : bid &lt;amount&gt; on &lt;lot number&gt;, bid &lt;lot number&gt;, bid
 Example : bid 100 on 3, bid 3, bid
 
       This command has three different uses.

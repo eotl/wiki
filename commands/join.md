@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Join.
-Format  : join <target> 
+Format  : join &lt;target&gt; 
 Example : join dorf
 
      If you are not already in combat, the 'join' command will

@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Page Length
-Format:   set page-length (<number>/auto)
+Format:   set page-length (&lt;number&gt;/auto)
 
      This value should be the height of your terminal window, in
 characters.  This is mainly used by the paging system, so it can show

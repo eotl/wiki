@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command: Chantimefmt
-Format : set chantimefmt <format>
+Format : set chantimefmt &lt;format&gt;
 
      This allows a player to control the format of channel
 message timestamps.  The setting is a format string passed
@@ -40,14 +40,14 @@ to strftime.  Below are the possibilities:
 Examples:
      1.  set chantimefmt %T %D
 
-         02:03:36 03/31/96 <Channel> Bert: hi!
+         02:03:36 03/31/96 &lt;Channel&gt; Bert: hi!
 
      2.  set chantimefmt %H:%M:%S
 
-         02:03:36 <Channel> Bert: hi!
+         02:03:36 &lt;Channel&gt; Bert: hi!
 
      3.  set chantimefmt %a-%T
-         Tue-02:03:36 <Channel> Bert: hi!
+         Tue-02:03:36 &lt;Channel&gt; Bert: hi!
 	(this one is the default)
 
 See also: set, chantimes

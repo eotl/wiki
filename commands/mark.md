@@ -2,18 +2,18 @@
 wrapper: "../../../js/components/wiki/TextArticle"
 ---
 Command : Mark
-Format  : mark <[object]|[all [id]]|[equip] [as <extra>]>
+Format  : mark &lt;[object]|[all [id]]|[equip] [as &lt;extra&gt;]&gt;
  
      Marking an object prevents it from being sold -- handy to do with
 your healing or other items that aren't worn, wielded, or held.  Objects must
 be unmarked before storing.
  
-     <mark equip> will mark all the equipment you're wearing/wielding,
-<mark all> will mark your entire inventory, and <mark all [id]> will mark 
+     &lt;mark equip&gt; will mark all the equipment you're wearing/wielding,
+&lt;mark all&gt; will mark your entire inventory, and &lt;mark all [id]&gt; will mark 
 everything matching "id" (so "mark all armor" will mark all the armor in 
 your inventory).
 
-         <mark item as [extra]>, <mark all item as [extra]> will name items with an
+         &lt;mark item as [extra]&gt;, &lt;mark all item as [extra]&gt; will name items with an
 extra identifier.  eg: 'mark fruit as HI' will mark fruit with tag (name HI).
 
 	Once an object is named, you can then access it by using its name.
