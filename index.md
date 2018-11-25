@@ -12,7 +12,7 @@ see:
 
 It's a dangerous world out there, but this wiki should supply you all the critical information you need to survive your adventure on EotL. To contribute, you can mudmail Devo with your content suggestions, or go right to the source by requesting access to the [Github repository](https://github.com/eotl/wiki). 
 
-{{ <TableOfContents {...props} /> }}
+{{ <TableOfContents {...props} depth={1} /> }}
 
 ### Markdown
 The wiki is written in Markdown with additional support for harnessing content from the wiki component library. If you need help getting started with Markdown syntax, check out this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). The rest of this document will assume you're familiar with the basics. The source code for this document can be viewed on [Github](https://raw.githubusercontent.com/eotl/wiki/master/index.md).
