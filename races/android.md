@@ -24,7 +24,7 @@ Fatigue		61
 Free Points	0
 
 Race Resistances | 
-:---|:---|
+:--- | :---
 Asphyxiation | *Completely resistant*
 Cold | Somewhat susceptible
 Disease| *Completely resistant*
