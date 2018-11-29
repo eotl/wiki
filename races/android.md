@@ -8,20 +8,20 @@ see:
 #### Description
 The androids are robotic and cybernetic units designed for a variety of military and hazardous civilian tasks.  They have limited intelligence but are capable of immense physical strength.  Unlike organic races, androids have no mana.  They are not recommended for inexperienced players.
 
-Starting Stats |
-:--- | :---
-Str | 20
-Int | 7
-Wil | 7
-Con | 20
-Dex | 5
-Chr | 3
+| Starting Stats |      |
+| :------------- | :--- |
+| Str            | 20   |
+| Int            | 7    |
+| Wil            | 7    |
+| Con            | 20   |
+| Dex            | 5    |
+| Chr            | 3    |
 
 
-Hitpoints	100
-Mana		0
-Fatigue		61
-Free Points	0
+Hitpoints:   100
+Man:           0
+Fatigue:      61
+Free Points    0
 
 Race Resistances | 
 :--- | :---
