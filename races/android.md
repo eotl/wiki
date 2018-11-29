@@ -8,6 +8,7 @@ see:
 #### Description
 The androids are robotic and cybernetic units designed for a variety of military and hazardous civilian tasks.  They have limited intelligence but are capable of immense physical strength.  Unlike organic races, androids have no mana.  They are not recommended for inexperienced players.
 
+<div style="border: 0">
 <table border="0">
 <tr valign="top"><td>
 
@@ -47,6 +48,7 @@ The androids are robotic and cybernetic units designed for a variety of military
 | Fatigue:   |    61 |
 
 </td></tr></table>
+</div>
 
 #### Racial Features:
 No mana
