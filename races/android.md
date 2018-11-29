@@ -10,6 +10,7 @@ The androids are robotic and cybernetic units designed for a variety of military
 
 <table>
 <tr><td>
+
 | Resistances    | Resistance or Vulnerability   |
 | :------------- | :---------------------------- |
 | Asphyxiation   | *Completely resistant*        |
