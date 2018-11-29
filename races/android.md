@@ -8,8 +8,8 @@ see:
 #### Description
 The androids are robotic and cybernetic units designed for a variety of military and hazardous civilian tasks.  They have limited intelligence but are capable of immense physical strength.  Unlike organic races, androids have no mana.  They are not recommended for inexperienced players.
 
-<table>
-<tr><td>
+<table border="0">
+<tr valign="top"><td>
 
 | Resistances    | Resistance or Vulnerability   |
 | :------------- | :---------------------------- |
