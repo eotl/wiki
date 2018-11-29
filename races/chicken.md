@@ -7,7 +7,7 @@ description: Bawk.
 ---
 You know what a chicken is, right?  This is a chicken.  There is no good reason to be a chicken.  
 
-### Starting Stats
+### Starting Statistics
 {{ <Grid container spacing={24}><Grid item> }}
 
 | Stat            | Value |
