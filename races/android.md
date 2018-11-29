@@ -10,18 +10,19 @@ The androids are robotic and cybernetic units designed for a variety of military
 
 | Starting Stats |      |
 | :------------- | :--- |
-| Str            | 20   |
-| Int            | 7    |
-| Wil            | 7    |
-| Con            | 20   |
-| Dex            | 5    |
-| Chr            | 3    |
+| Str            |   20 |
+| Int            |    7 |
+| Wil            |    7 |
+| Con            |   20 |
+| Dex            |    5 |
+| Chr            |    3 |
+| Free Points    |    0 |
 
-
-Hitpoints:   100
-Man:           0
-Fatigue:      61
-Free Points    0
+| Resources  |       |
+| :--------- | :---: |
+| Hitpoints: |   100 |
+| Man:       |     0 |
+| Fatigue:   |    61 |
 
 Race Resistances | 
 :--- | :---
