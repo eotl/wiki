@@ -46,7 +46,7 @@ The androids are robotic and cybernetic units designed for a variety of military
 | Man:       |     0 |
 | Fatigue:   |    61 |
 
-</td><td></tr></table>
+</td></tr></table>
 
 #### Racial Features:
 No mana
