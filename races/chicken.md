@@ -32,7 +32,7 @@ You know what a chicken is, right?  This is a chicken.  There is no good reason 
 
 ### Resistances
 
-* No known resistances    
+* No known resistances.    
 
 ### Hit Locations
 * Left talon
