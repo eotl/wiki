@@ -2,7 +2,7 @@
 wrapper: "../../../js/components/wiki/BasicArticle"
 prependJs: 
   - "import Grid from '@material-ui/core/Grid';"
-title: Chicken
+title: Chickens
 description: Bawk.
 ---
 You know what a chicken is, right?  This is a chicken.  There is no good reason to be a chicken.  
