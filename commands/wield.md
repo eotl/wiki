@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Wield
 Format  : wield &lt;weapon&gt; [in &lt;number&gt; &lt;hands&gt;]

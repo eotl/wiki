@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Bid.
 Format  : bid &lt;amount&gt; on &lt;lot number&gt;, bid &lt;lot number&gt;, bid

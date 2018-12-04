@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Wimpy Direction
 Format  : wimpydir &lt;direction&gt; || wimpydir random

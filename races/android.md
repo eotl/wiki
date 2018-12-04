@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 wrapper: "../../js/components/wiki/IndexArticle"
 title: Android
 description: Android Race.
@@ -14,11 +15,51 @@ The androids are robotic and cybernetic units designed for a variety of military
 
 | Resistances    | Resistance or Vulnerability   |
 | :------------- | :---------------------------- |
+=======
+wikiWrapper: BasicArticle
+muiComponents: 
+  - Grid
+title: Android
+description: All systems online. Kill mode activated.
+---
+The androids are robotic and cybernetic units designed for a variety of military and hazardous civilian tasks.  They have limited intelligence but are capable of immense physical strength.  Unlike organic races, androids have no mana.  They are not recommended for inexperienced players.
+
+### Starting Statistics
+{{ <Grid container spacing={24}><Grid item> }}
+
+| Stat            | Value |
+|:----------------|------:|
+|[[Strength]]     |    20 |
+|[[Intelligence]] |     7 |
+|[[Willpower]]    |     7 |
+|[[Constitution]] |    20 |
+|[[Dexterity]]    |     5 |
+|[[Chrarisma]]    |     3 |
+|Free             |     0 |
+
+{{ </Grid><Grid item> }}
+
+| Stat         | Value |
+|:-------------|------:|
+|[[Hitpoints]] |   100 |
+|[[Mana]]      |     0 |
+|[[Fatigue]]   |    61 |
+
+{{ </Grid></Grid> }}
+
+### Resistances
+| Damage Type    | Level                         |
+|:---------------|:------------------------------|
+>>>>>>> master
 | Asphyxiation   | *Completely resistant*        |
 | Cold           | Somewhat susceptible          |
 | Disease        | *Completely resistant*        |
 | Edged          | Somewhat resistant            |
+<<<<<<< HEAD
 | Electric       | **Devastatingly susceptible** |
+=======
+| Electric       | **Devastatingly susceptible** | 
+>>>>>>> master
 | Energy         | Moderately susceptible        |
 | Fire           | Moderately resistant          |
 | Magic Electric | **Devastatingly susceptible** |
@@ -27,6 +68,7 @@ The androids are robotic and cybernetic units designed for a variety of military
 | Poison         | *Completely resistant*        |
 | Psychic        | *Completely resistant*        |
 
+<<<<<<< HEAD
 </td><td>
 
 | Starting Stats |      |
@@ -66,6 +108,24 @@ Each android player gets a module loader, which has the can be loaded with the f
 * Matrix     - Enhanced systems protection.<br>
 
 #### Hit Locations
+=======
+### Android Modules
+Each android player gets a module loader, which has the can be loaded with the following modules:
+
+| Module     | Description                                            |
+|:-----------|:-------------------------------------------------------|
+| Battery    | Doubles modloader energy storage capacity              |
+| Generator  | Doubles modloader energy recovery rate                 |
+| Repair     | Repair module allows rapid repair of damaged chassis   |
+| Beacon     | Beacon module calls dropship for pickup                |
+| Floodlight | Big high powered spotlights                            |
+| Cloak      | Chameleon cloak will mimic background, disguising unit |
+| Powerup    | Boosts hydraulic system, increasing str and dex        |
+| Tracker    | Detect target's location.                              |
+| Matrix     | Enhanced systems protection.                           |
+
+### Hit Locations
+>>>>>>> master
 * Neck
 * Head
 * Chest
@@ -78,4 +138,8 @@ Each android player gets a module loader, which has the can be loaded with the f
 * Left foot
 * Right thigh
 * Right calf
+<<<<<<< HEAD
 * Right foot
+=======
+* Right foot
+>>>>>>> master

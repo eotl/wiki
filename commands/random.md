@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Random.
 Format  : random || random &lt;who&gt; || random &lt;who&gt; &lt;adj&gt; || random &lt;adj&gt;

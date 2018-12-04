@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Junk.
 Format  : junk &lt;object&gt;, junk &lt;all object|inv|env&gt;, junk &lt;all&gt;

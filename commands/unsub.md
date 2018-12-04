@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Unsubstitution.
 Format  : unsub [-x|/x] &lt;word&gt;

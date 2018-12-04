@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Nickname Substitution.
 Format  : sub &lt;word&gt; &lt;meaning&gt;

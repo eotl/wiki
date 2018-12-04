@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Hpw (Hit Point Watch).
 Format  : set hpw on || set hpw off

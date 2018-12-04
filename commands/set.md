@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Set.
 Format  : set || set &lt;variable&gt; &lt;value&gt;

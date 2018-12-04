@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Format  : reply &lt;msg&gt;
 Example : reply Thanks for that tell, Gunthar.  This is a reply.

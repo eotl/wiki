@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Group.
 Format  : group &lt;subcommand&gt; &lt;arguments&gt; 

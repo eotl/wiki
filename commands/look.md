@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Look.
 Format  : look || look &lt;thing&gt; || look at &lt;thing&gt; || look in &lt;thing&gt;

@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Show
 Format  : show &lt;whom&gt; &lt;what&gt;, show &lt;what&gt; to &lt;whom&gt;

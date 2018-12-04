@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command: Consider.
 Format:  consider &lt;monster&gt; || consider &lt;player&gt;

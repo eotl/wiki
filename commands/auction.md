@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Auction.
 Format  : auction &lt;item&gt; for &lt;amount&gt; coins, auction status, auction &lt;text&gt;

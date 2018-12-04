@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Mail.
 Format : mail || mail &lt;player&gt; || mail &lt;:group&gt; (see in-mail help for valid groups)

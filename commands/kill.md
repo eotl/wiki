@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Kill.
 Format  : kill &lt;monster&gt; || kill &lt;player&gt; || kill all

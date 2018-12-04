@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command: Alias.
 Format:  alias &lt;command&gt; &lt;command list&gt;

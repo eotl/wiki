@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Glance.
 Format  : glance || glance &lt;thing&gt; || glance at &lt;thing&gt; || glance in &lt;thing&gt;

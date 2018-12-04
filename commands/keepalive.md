@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Comand  : Keepalive
 Format  : set keepalive on || set keepalive off
