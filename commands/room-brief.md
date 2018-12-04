@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Room Brief
 Format  : set room-brief [on | off]

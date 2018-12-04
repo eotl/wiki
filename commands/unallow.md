@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Unallow.
 Format  : unallow &lt;who&gt; || unallow &lt;all&gt;

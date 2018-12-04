@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Nsig.
 Format  : nsig || nsig clear

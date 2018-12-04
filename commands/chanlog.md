@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Chanlog
 Format  : chanlog &lt;channel&gt;

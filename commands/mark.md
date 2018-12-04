@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Mark
 Format  : mark &lt;[object]|[all [id]]|[equip] [as &lt;extra&gt;]&gt;

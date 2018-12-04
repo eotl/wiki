@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Follow.
 Format  : follow &lt;who&gt; || follow me || follow stop

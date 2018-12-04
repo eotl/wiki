@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Ansi Shorts.
 Format  : set ansi-shorts on || set ansi-shorts off

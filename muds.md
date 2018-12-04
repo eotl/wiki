@@ -1,4 +1,4 @@
 ---
-wrapper: "../../js/components/wiki/StubArticle"
+wikiWrapper: StubArticle
 title: MUDs
 ---

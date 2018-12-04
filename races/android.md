@@ -1,7 +1,7 @@
 ---
-wrapper: "../../../js/components/wiki/BasicArticle"
-prependJs: 
-  - "import Grid from '@material-ui/core/Grid';"
+wikiWrapper: BasicArticle
+muiComponents: 
+  - Grid
 title: Android
 description: All systems online. Kill mode activated.
 ---

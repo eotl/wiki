@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command : Get
 Format  : get &lt;item&gt;, get &lt;item&gt; from &lt;item2&gt;, get all, get all from &lt;item&gt;,

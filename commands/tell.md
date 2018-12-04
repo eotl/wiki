@@ -1,5 +1,5 @@
 ---
-wrapper: "../../../js/components/wiki/TextArticle"
+wikiWrapper: TextArticle
 ---
 Command: Tell.
 Format:  tell &lt;player&gt; &lt;message&gt;
