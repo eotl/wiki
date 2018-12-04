@@ -2,7 +2,7 @@
 wikiWrapper: BasicArticle
 muiComponents: 
   - Grid
-title: Android
+title: Androids
 description: All systems online. Kill mode activated.
 ---
 The androids are robotic and cybernetic units designed for a variety of military and hazardous civilian tasks.  They have limited intelligence but are capable of immense physical strength.  Unlike organic races, androids have no mana.  They are not recommended for inexperienced players.
