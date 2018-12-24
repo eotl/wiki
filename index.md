@@ -2,6 +2,8 @@
 wikiWrapper: IndexArticle
 wikiComponents: 
   - TableOfContents
+muiIcons:
+  - RemoveRedEye
 title: EotL Wiki
 description: EotL wiki overview.
 see:
@@ -27,6 +29,13 @@ For internal links, you will want to use the &lt;Link/&gt; tag instead of the st
 
 You can also link directly to other wiki articles by using the double bracket syntax, such as this link to [[Eternal City]], or this other one with [[Eternal City:alternate link text]]. The target inside the double brackets will be matched against the article's _filename_, not its title, with the value lowercased and its spaces converted to underscores.
 
+### Spoilers
+The wiki spoiler system allows you to mark certain content as containing spoilers for EotL gameplay. There are four possible spoiler levels that denote what kind of player would be expected to know the spoiler: newbie, regular, veteran, and wizard. Users can configure what level of spoilers they wish to see using the {{ <RemoveRedEye/> }}&nbsp;Spoiler Menu.
+
+To mark content as having spoilers, simple surround the content with &lt;Spoiler&gt;&lt;Spoiler/&gt; tags. The Spoiler tag must be passed a *level* attribute, denoting the spoiler level of the content. You may also set the optional *placeholder* attribute which will display some informational text in place of the spoiler. You may either provide custom text to display, or set to true to use the default placeholder text.
+
+In addition to spoiler blocks with an article, you may also set the spoiler level of the entire article via the *spoilerLevel* front matter. This should be set to one of the four spoiler levels and, in addtion to wrapping the entire article in a &lt;Spoiler/&gt; tag, it will also prevet the article from showing up in search and navigation.
+
 ### Front Matter
 Front matter is a special data section at the top of your wiki article specified in [YAML syntax](http://yaml.org/start.html) which you can include to specify how you want your page to be rendered.
 
@@ -35,6 +44,9 @@ The title value specifies the page title to be displayed in headers and in navig
 
 #### description
 The description value is a short phrase or sentence which describes the article content, and often appears with the title as a caption or subtitle. If no description is provided, the default behavior is to display nothing where a description would normally appear. However, based on the page type, a default description may be generated. For instance, category indexes will get a default description which consists of their subcategories and articles.
+
+#### spoilerLevel
+Set the article spoiler level, which will cause placeholder text to be displayed instead of the article body if the user's spoiler level is not set sufficently high. It will also cause the article to be removed from search and navigation.
 
 #### see
 The see value lists which articles to link to in this article's "See also" section. The list values will be matched against an article's _filename_, not its title, with the value lowercased and spaces its spaces converted to underscores.
